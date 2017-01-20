@@ -1,0 +1,16 @@
+PODS:
+  - IMEHttpMock (0.1.0)
+
+DEPENDENCIES:
+  - IMEHttpMock (from `../`)
+
+EXTERNAL SOURCES:
+  IMEHttpMock:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IMEHttpMock: 24d40e89945efceb035230d6ee3c524ba351ce5a
+
+PODFILE CHECKSUM: c5134776d3b491080a1dcbab806f51a2ee7b6340
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,22 @@
+{
+  "name": "IMEHttpMock",
+  "version": "0.1.0",
+  "summary": "A short description of IMEHttpMock.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/IMEHttpMock",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Liu Xu": "liuxu@365ime.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/IMEHttpMock.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IMEHttpMock/Classes/**/*"
+}

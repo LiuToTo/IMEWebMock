@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IMEHttpMock_Example' do
+  pod 'IMEHttpMock', :path => '../'
+
+  target 'IMEHttpMock_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

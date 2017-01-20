@@ -1,0 +1,6 @@
+framework module IMEHttpMock {
+  umbrella header "IMEHttpMock-umbrella.h"
+
+  export *
+  module * { export * }
+}
